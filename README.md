@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="left">Aca encontraras todos mis proyectos, tambien si quieres ver mi pagina web en la que te cuento mas sobre mi, te muestro brevemente y de manera grafica los proyectos que he hecho.<br><br>👇🏻👇🏻👇🏻<br><br>https://bsmiprimersitioweb.netlify.app/</p>
+<p align="left">Aca encontraras todos mis proyectos, tambien si quieres ver mi pagina web en la que te cuento mas sobre mi, te muestro brevemente y de manera grafica los proyectos que he hecho.<br><br>👇🏻👇🏻👇🏻<br><br>https://bsmiprimersitioweb.netlify.app/<br><br>Tambien si quieres saber rapidamente las tecnologias y herramientas que he manejado, puedes verlas aqui. <br><br>👇🏻👇🏻👇🏻</p>
 
 ###
 
@@ -28,16 +28,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
+</div>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
@@ -52,6 +50,10 @@
 
 ###
 
+<p align="left">Para no hacerte el cuento muy largos, estos son los proyectos en los que he trabajado;</p>
+
+###
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -59,6 +61,10 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
 </div>
+
+###
+
+<p align="left">Estas son mis redes, realmente no soy muy activo en ellas, pero si quieres saber que estoy haciendo o en que proyectos me encuentro, puedes verlo desde mi pagina web o instagram. 😁</p>
 
 ###
 
