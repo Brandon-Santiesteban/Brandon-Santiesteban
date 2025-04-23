@@ -1,8 +1,16 @@
-<h1 align="left">Hola, Soy Brandon ⚜️</h1>
+<div align="center">
+  <img height="300" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
+</div>
 
 ###
 
-<p align="left">Hola, Soy Brandon ⚜️<br>Aca encontraras todos mis proyectos, tambien si quieres ver mi pagina web en la que te cuento mas sobre mi, te muestro brevemente y de manera grafica los proyectos que he hecho.</p>
+<h1 align="left">Hola, ⚜️ Soy Brandon ⚜️</h1>
+
+###
+
+<br clear="both">
+
+<p align="left">Aca encontraras todos mis proyectos, tambien si quieres ver mi pagina web en la que te cuento mas sobre mi, te muestro brevemente y de manera grafica los proyectos que he hecho.<br><br>👇🏻👇🏻👇🏻<br><br>https://bsmiprimersitioweb.netlify.app/</p>
 
 ###
 
@@ -44,10 +52,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B0MG1vejhjcmdyM2RvMHF6Y2RnbXE3bDN4ZDAybW14eDVuYWkycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
@@ -58,20 +62,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Brandon-Santiesteban/Brandon-Santiesteban/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Brandon-Santiesteban/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Brandon-Santiesteban/count.svg?"  />
-</div>
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B0MG1vejhjcmdyM2RvMHF6Y2RnbXE3bDN4ZDAybW14eDVuYWkycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
