@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<p align="left">Aca encontraras todos mis proyectos, tambien si quieres ver mi pagina web en la que te cuento mas sobre mi, te muestro brevemente y de manera grafica los proyectos que he hecho.<br><br>👇🏻👇🏻👇🏻<br><br>https://bsmiprimersitioweb.netlify.app/<br><br>Tambien si quieres saber rapidamente las tecnologias y herramientas que he manejado, puedes verlas aqui. <br><br>👇🏻👇🏻👇🏻</p>
+<p align="left">Aca encontraras todos mis proyectos, tambien si quieres ver mi pagina web en la que te cuento mas sobre mi, te muestro brevemente y de manera grafica los proyectos que he hecho.<br><br>👇🏻👇🏻👇🏻<br><br>https://zesty-pithivier-c40c58.netlify.app/<br><br>Tambien si quieres saber rapidamente las tecnologias y herramientas que he manejado, puedes verlas aqui. <br><br>👇🏻👇🏻👇🏻</p>
 
 ###
 
